@@ -1,0 +1,13 @@
+# Garden clothesline strung between two posts
+name = Garden clothesline
+span = 12 m
+height_left = 1.8 m
+height_right = 1.8 m
+weight = 0.35 kg/m        # polypropylene line
+extra = 0.05 kg/m         # allowance for wet washing
+sag = 0.6 m               # target sag at mid-span
+strength = 1.2 kN         # breaking strength from the datasheet
+safety = 4                # minimum strength / max tension
+min_clearance = 1.0 m     # lowest point must stay above a child's head
+anchor = 0.3 m            # cable wrapped around each post
+price = 1.90 per m

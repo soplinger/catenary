@@ -1,0 +1,12 @@
+# Slack overhead wire from a 6 m pole to a 9 m wall bracket, 30 ft apart
+name = Sloped wire run
+span = 30 ft
+height_left = 6 m
+height_right = 9 m
+weight = 0.12 kg/m
+length = 10.2 m
+strength = 300 N
+safety = 3
+min_clearance = 5.0 m
+anchor = 0.5 m
+price = 0.80 per m
